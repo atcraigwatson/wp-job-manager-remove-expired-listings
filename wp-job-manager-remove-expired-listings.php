@@ -1,9 +1,9 @@
 <?php
 /**
  * Plugin Name: WP Job Manager - Auto Delete Expired Listings
- * Plugin URI: https://github.com/rokkitpress/
+ * Plugin URI: https://github.com/rokkitpress/wp-job-manager-remove-expired-listings
  * Description: Lets you set a specific number of days to automatically delete listings from the database.
- * Version: 1.0
+ * Version: 0.2
  * Author: Craig Watson
  * Author URI: https://github.com/rokkitpress
  * Requires at least: 4.1
